@@ -1,6 +1,4 @@
-# React Native News App
 
-<img src="https://i.imgur.com/2B17gGF.png">
 # React Native News App
 
 A multilingual news application built with React Native and Firebase, featuring news browsing, language selection, commenting, and saved articles.
